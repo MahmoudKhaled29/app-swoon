@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		573814E720BE3B9A0046C515 /* SecondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573814E620BE3B990046C515 /* SecondScreenViewController.swift */; };
 		57E33C2120BC9FCC0024ABB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E33C2020BC9FCC0024ABB8 /* AppDelegate.swift */; };
 		57E33C2320BC9FCC0024ABB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E33C2220BC9FCC0024ABB8 /* ViewController.swift */; };
 		57E33C2620BC9FCC0024ABB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57E33C2420BC9FCC0024ABB8 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		573814E620BE3B990046C515 /* SecondScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreenViewController.swift; sourceTree = "<group>"; };
 		57E33C1D20BC9FCC0024ABB8 /* app-swoosh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "app-swoosh.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57E33C2020BC9FCC0024ABB8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57E33C2220BC9FCC0024ABB8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				57E33C2720BC9FDA0024ABB8 /* Assets.xcassets */,
 				57E33C2920BC9FDA0024ABB8 /* LaunchScreen.storyboard */,
 				57E33C2C20BC9FDA0024ABB8 /* Info.plist */,
+				573814E620BE3B990046C515 /* SecondScreenViewController.swift */,
 			);
 			path = "app-swoosh";
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				573814E720BE3B9A0046C515 /* SecondScreenViewController.swift in Sources */,
 				57E33C2320BC9FCC0024ABB8 /* ViewController.swift in Sources */,
 				57F519A820BD01C7004D48EB /* BorderButtons.swift in Sources */,
 				57E33C2120BC9FCC0024ABB8 /* AppDelegate.swift in Sources */,

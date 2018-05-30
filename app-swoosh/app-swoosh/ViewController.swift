@@ -20,10 +20,7 @@ class ViewController: UIViewController {
         bckImage.frame = view.frame */
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
+    @IBAction func presedBacksegue(segue : UIStoryboardSegue) {}
 
 
 }

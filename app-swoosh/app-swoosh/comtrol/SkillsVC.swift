@@ -1,5 +1,5 @@
 //
-//  SecondScreenViewController.swift
+//  SkillsVC.swift
 //  app-swoosh
 //
 //  Created by Mahmoud Khaled on 5/30/18.
@@ -8,15 +8,16 @@
 
 import UIKit
 
-class SecondScreenViewController: UIViewController {
+class SkillsVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-
-    @IBAction func nextPressed (segue : UIStoryboardSegue){}
+    
+   
+   
     
 
 
